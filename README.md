@@ -1,4 +1,5 @@
 # Notebooks
 
 1. Signal Processing
-    [an example](http://example.com/ "Title")
+    [Basic Signal Processing](https://radmerti.github.io/notebooks "Basic")
+    `Basic Signal Processing <https://radmerti.github.io/notebooks>`_
