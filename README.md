@@ -1,5 +1,4 @@
 # Notebooks
 
 1. Signal Processing
-    [Basic Signal Processing](https://radmerti.github.io/notebooks "Basic")
-    `Basic Signal Processing <https://radmerti.github.io/notebooks>`_
+  * [Basic](https://radmerti.github.io/notebooks/Signal "Basic")
