@@ -1,4 +1,8 @@
 # Notebooks
 
 1. Signal Processing
-  * [Basic](https://radmerti.github.io/notebooks/Signal "Basic")
+  * [Tools of Signal Processing](https://radmerti.github.io/notebooks/Signalverarbeitung.html "Tools of Signal Processing")
+
+2. Predictive Modelling
+
+3. Deep Learning
